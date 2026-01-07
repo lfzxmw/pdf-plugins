@@ -9,7 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "pdfjs-dist": "^2.16.105",
+    "pdfvuer": "^1.10.0",
+    "vue": "^2.6.11",
+    "vue-pdf": "^4.3.0",
+    "vue-pdf-app": "^2.1.0",
+    "vue-pdf-embed": "^1.2.1",
+    "vue-router": "^3.6.5",
+    "worker-loader": "^3.0.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.19",
